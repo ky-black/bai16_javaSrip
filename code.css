@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+#div1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+#div2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 255, 34);
+}
